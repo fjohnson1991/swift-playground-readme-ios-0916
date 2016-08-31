@@ -1,2 +1,5 @@
-let str = "Hello, world"
-str = "Goodbye, world"
+let str = "Hello "
+
+var name = "felicity"
+
+var welcome = str + name
