@@ -1,5 +1,5 @@
 let str = "Hello "
 
-var name = "felicity"
+var name = "fj"
 
 var welcome = str + name
