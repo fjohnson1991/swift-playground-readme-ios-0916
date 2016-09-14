@@ -1,6 +1,6 @@
 let str = "Hello "
 
-var name = "fj"
+var name = "felicity"
 
 var welcome = str + name
 
